@@ -6,3 +6,5 @@
 *.pydevproject
 output/*
 data/*
+.venv
+.idea
