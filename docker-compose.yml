@@ -1,0 +1,9 @@
+version: "3.3"
+
+services:
+  neuroner:
+    build:
+      context: .
+    restart: always
+    image: neuroner
+    container_name: neuroner
